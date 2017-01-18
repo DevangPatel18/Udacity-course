@@ -11,6 +11,9 @@ Working directory simply the directory of all files present in the same folder.
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+I can add files to the staging area every time I make a logical change.
+Then I can simply make a commit to ensure consistency.
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
