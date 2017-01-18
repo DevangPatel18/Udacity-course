@@ -21,6 +21,8 @@ If I want to try different implementations of the same functions varying in spee
 
 How do the diagrams help you visualize the branch structure?
 
+It allows me to see the path towards certain commits I might want to bring up.
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
