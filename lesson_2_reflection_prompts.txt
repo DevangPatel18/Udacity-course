@@ -31,3 +31,10 @@ The diagram allows us to keep track of the changes made to each different branch
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+
+Pro is it accomplishes tasks which would seem fairly tedious for simple blocks of code.
+It also identifies conflicts between two sets of code and informs the user with the original source,
+and the code for the two respective merging elements in the working directory source code.
+Con is it might not work if the two commits are in different states.
+It also becomes a difficult issue if several people are working on the document
+and commits aren't recognized because they're not introduced to the repo in a timely manner.
