@@ -1,0 +1,3 @@
+When would you want to use a remote repository rather than keeping all your work local?
+
+If I'm looking for feedback from other users, or posting my personal projects as part of my CV.
