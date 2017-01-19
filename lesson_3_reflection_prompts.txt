@@ -6,3 +6,10 @@ Why might you want to always pull changes manually rather than having Git automa
 
 There might be certain changes that I feel aren't ready for public viewing yet,
 which is why I wouldn't want Git to stay in-sync at all times with my remote repository.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Forks are just clones that exist within GitHub, and can be collaborated upon with other users.
+They would be used to clone a GitHub user's repo for my own use while still indicating the original creator.
+Clones are simply copies of repos which exist locally on the user's computer.
+Branches exist within both forks and clones, and can be used to copy a specific group of commits.
