@@ -18,3 +18,10 @@ What is the benefit of having a copy of the last known state of the remote store
 
 I can get all the recent changes on the origin/master branch, which would be
 very useful in the context of collaboration.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+Without Git or GitHub, one could collaborate using email, usb drives, and 
+conversing in-person and exchanging ideas and solutions. This would be far
+more tedious and time-consuming though, and the only benefit it brings is 
+immediate communication among people in the same room.
